@@ -1,6 +1,6 @@
 # Benchmarks
 
-This repo contains different CatBoost benchmarks.
+This repo contains performance comparisons for various Gradient Boosted Decision Trees algorithms.
 
 ## Quality comparison
 Go to subdirectory [quality benchmarks](https://github.com/catboost/benchmarks/blob/master/quality_benchmarks/) to see quality benchmarks
